@@ -7,7 +7,7 @@ used to love sublime text as my code editor for Competitive Programming. Special
 
 ## Here is the sublime system I was talking
 
-![sublime](/images/sublime.png)
+![sublime](/images/Sublime.png)
 
 ### There is the Custom build system:
 
